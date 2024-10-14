@@ -32,7 +32,7 @@ const ServiceCard = ({ index, title, icon }) => {
             <div className="absolute inset-0 opacity-0 transition-opacity hover:opacity-10">
               
                 <img
-                  src='src/assets/services/service-3.png
+                  src='src/assets/services/service-1.png
                   '
                   width={380}
                   height={362}
@@ -72,7 +72,7 @@ const About = () => {
                  max-w-3xl leading-[30px]"
         >
           I'm a skilled software developer with experience in Javascript and
-          expertise in frameworks like React,Node.js, and Three.js I'm a quick
+          expertise in frameworks like React, redux and Three.js I'm a quick
           learner and collaborate closely with clients to create efficient,
           scalable, and user-friendly solution that solve real-world problems.
           let's work together to bring your idea to life !

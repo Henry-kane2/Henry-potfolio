@@ -11,7 +11,6 @@ import Services from "./Services";
 import check from "../assets/check.svg";
 
 import play from "../assets/play.svg";
-import gradient from "../assets/gradient.png";
 import grid from "../assets/grid.png";
 import check2 from "../assets/check-02.svg";
 import loading1 from "../assets/loading-01.svg";
@@ -30,7 +29,6 @@ import loading from "../assets/loading.png";
 
 import curve from "../assets/hero/curve.png";
 import robot from "../assets/hero/robot.jpg";
-import heroBackground from "../assets/hero/hero-background.jpg";
 
 import curve1 from "../assets/collaboration/curve-1.svg";
 import curve2 from "../assets/collaboration/curve-2.svg";
@@ -76,7 +74,6 @@ export default {
     loading1,
 
     play,
-    gradient,
     grid,
     yourlogo,
     homeSmile,
@@ -91,7 +88,6 @@ export default {
     loading,
     curve,
     robot,
-    heroBackground,
     curve1,
     curve2,
     discord,
