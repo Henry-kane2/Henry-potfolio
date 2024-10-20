@@ -47,7 +47,6 @@ import service1 from "../assets/services/service-1.png";
 import service2 from "../assets/services/service-2.jpeg";
 import service3 from "../assets/services/service-3.jpeg";
 
-import stars from "../assets/pricing/stars.svg";
 
 import coins from "../assets/roadmap/coins.png";
 import done from "../assets/roadmap/done.svg";
@@ -107,7 +106,7 @@ export default {
     service2,
     service3,
 
-    stars,
+
     coins,
     done,
     hero,

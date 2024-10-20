@@ -18,7 +18,6 @@ import {
 
 import web from "../assets/4-small.png";
 import creator from "../assets/sliders-04.svg";
-import coins from "../assets/roadmap/coins.png";
 
 import {
     javascript,
