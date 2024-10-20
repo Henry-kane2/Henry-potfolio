@@ -3,8 +3,8 @@ import { Tilt } from "react-tilt";
 import { motion } from "framer-motion";
 import { styles } from "../styles";
 import { services } from "../constants";
+import { IMAGES } from "../constants";
 import { staggerContainer } from "../utils/motion";
-import {  service1 } from "../assets";
 import { fadeIn, textVariant } from "../utils/motion";
 
 const ServiceCard = ({ index, title, icon }) => {
@@ -32,7 +32,7 @@ const ServiceCard = ({ index, title, icon }) => {
             <div className="absolute inset-0 opacity-0 transition-opacity hover:opacity-10">
               
                 <img
-                  src={service1}
+                  src={IMAGES.service1}
                   width={380}
                   height={362}
                   alt='image'

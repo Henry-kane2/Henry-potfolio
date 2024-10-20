@@ -9,7 +9,9 @@ import {
     instagram,
     photoshop,
     recording03,
+    roadmap2,
     roadmap3,
+    service1,
     slack,
     sliders04,
     telegram,
@@ -48,6 +50,7 @@ const services = [{
         icon: creator,
     },
 ];
+export const IMAGES = { roadmap2, service1 }
 
 const technologies = [{
         name: "HTML 5",
