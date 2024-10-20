@@ -3,6 +3,7 @@ import { styles } from '../../styles'
 import Stagger from './Stagger'
 import { motion } from 'framer-motion'
 import { ScrollParallax } from 'react-just-parallax'
+import { roadmap2 } from "../assets/roadmap/image-2.png";
 
 
 const Hero = () => {
@@ -63,7 +64,7 @@ const parallaxRef= useRef(null)
 
         <ScrollParallax>
           <img
-            src="src/assets/roadmap/image-2.png"
+            src={roadmap2}
             alt="heroimage"
             className="relative  lg:w-[700px] lg:h-[400px]
         lg:top-[17px] -top-[10px]  md:w-[400px] md:-left-[70px]
