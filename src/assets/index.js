@@ -16,9 +16,11 @@ import chromecast from "./chrome-cast.svg";
 import css from './tech/css.png'
 import sliders04 from "./sliders-04.svg";
 import loading from "./loading.png";
+import background from "./background.jpg";
 
 import curve from "./hero/curve.png";
 import robot from "./hero/robot.jpg";
+import heroBackground from "./hero/hero-background.jpg";
 
 import curve1 from "./collaboration/curve-1.svg";
 import curve2 from "./collaboration/curve-2.svg";
@@ -29,6 +31,7 @@ import notion from "./collaboration/notion.png";
 import photoshop from "./collaboration/photoshop.png";
 import protopie from "./collaboration/protopie.png";
 import raindrop from "./collaboration/raindrop.png";
+import gradient from '../assets/gradient.png'
 import slack from "./collaboration/slack.png";
 
 import service1 from "./services/service-1.png";
@@ -134,13 +137,16 @@ export {
     chromecast,
     sliders04,
     loading,
+    background,
     curve,
     robot,
+    heroBackground,
     curve1,
     curve2,
     discord,
 
     framer,
+    gradient,
 
     notion,
     photoshop,
