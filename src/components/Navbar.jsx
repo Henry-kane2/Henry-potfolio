@@ -201,7 +201,7 @@ const gridContainerVariants = {
             text-gray-100 font-light tracking-wide p-3 md:w-[100px] flex items-center px-5 gap-2"
               >
                 <BiHome className="scale-150" />
-                <a href="hero">Home</a>
+                <a href="#hero">Home</a>
               </motion.button>
 
               <motion.button
