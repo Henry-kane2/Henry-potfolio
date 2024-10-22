@@ -53,30 +53,12 @@ const services = [{
 export const IMAGES = { roadmap2, service1 }
 
 const technologies = [{
-        name: "HTML 5",
-        icon: html,
-    },
-    {
-        name: "CSS 3",
-        icon: css,
-    },
-    {
-        name: "JavaScript",
-        icon: javascript,
-    },
-    {
-        name: "TypeScript",
-        icon: typescript,
-    },
-    {
         name: "React JS",
         icon: reactjs,
-    },
-    {
+    }, {
         name: "Redux Toolkit",
         icon: redux,
-    },
-    {
+    }, {
         name: "Tailwind CSS",
         icon: tailwind,
     },
@@ -84,18 +66,28 @@ const technologies = [{
     {
         name: "Three JS",
         icon: threejs,
-    },
-    {
+    }, {
         name: "git",
         icon: git,
-    },
-    {
+    }, {
         name: "figma",
         icon: figma,
-    },
-    {
+    }, {
         name: "docker",
         icon: docker,
+    }, {
+        name: "HTML 5",
+        icon: html,
+    },
+    {
+        name: "CSS 3",
+        icon: css,
+    }, {
+        name: "JavaScript",
+        icon: javascript,
+    }, {
+        name: "TypeScript",
+        icon: typescript,
     },
 ];
 
@@ -293,4 +285,5 @@ export const socials = [{
     },
 ];
 
+export { services, technologies, experiences };
 export { services, technologies, experiences };
