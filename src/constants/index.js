@@ -75,19 +75,6 @@ const technologies = [{
     }, {
         name: "docker",
         icon: docker,
-    }, {
-        name: "HTML 5",
-        icon: html,
-    },
-    {
-        name: "CSS 3",
-        icon: css,
-    }, {
-        name: "JavaScript",
-        icon: javascript,
-    }, {
-        name: "TypeScript",
-        icon: typescript,
     },
 ];
 
@@ -96,7 +83,7 @@ const experiences = [{
         company_name: "unknown",
         icon: web,
         iconBg: "#383E56",
-        date: "March 2020 - April 2021",
+        date: "",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -109,7 +96,7 @@ const experiences = [{
         company_name: "unknown",
         icon: web,
         iconBg: "#E6DEDD",
-        date: "Jan 2021 - Feb 2022",
+        date: "",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
@@ -122,7 +109,7 @@ const experiences = [{
         company_name: "Shopify",
         icon: roadmap3,
         iconBg: "#383E56",
-        date: "Jan 2022 - Jan 2022",
+        date: "",
         points: [
             "Developing and maintaining web applications using React.js and other related technologies.",
             "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
